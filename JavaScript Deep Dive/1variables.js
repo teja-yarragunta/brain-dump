@@ -1,5 +1,5 @@
 // VARIABLES;
-// 1) variable names only contain letters, numbers, symbols - $ _
+// 1) variable names only contain letters, numbers, symbols  $ _
 // 2) must not start with a number
 // 3) JS developers follow camelCase notation..
 
