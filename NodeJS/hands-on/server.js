@@ -1,4 +1,4 @@
-// to create a server we need nodes HTTP module
+// to create a server we need node's HTTP module
 
 // import http from "http"; //in ejs, in package.json set type = module
 // its best practice to include node:http, when we are importing a core node module
