@@ -16,3 +16,12 @@ app.get("/", (req, res) => {
 app.listen(PORT, () => {
   console.log(`express server running on port ${PORT}`);
 });
+
+/*
+    req object
+    req.body -> data from the request body
+    req.params -> 
+    req.method -> http method(GET, POST)
+    req.ip -> client's ip address
+    req.query -> the query parameters
+*/
