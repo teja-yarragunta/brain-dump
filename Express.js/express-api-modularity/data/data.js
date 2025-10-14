@@ -952,4 +952,4 @@ export const startups = [
     is_seeking_funding: false,
     has_mvp: true,
   },
-]
+];
