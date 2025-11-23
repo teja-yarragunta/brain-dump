@@ -1,0 +1,1 @@
+SELECT id, dealership_id, brand, model FROM cars;
