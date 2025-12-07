@@ -1,6 +1,8 @@
 -- select all rows from cars table
 -- SELECT * from cars;
 
+-- SELECT DISTINCT * FROM cars;
+
 
 
 -- Selecting columns
